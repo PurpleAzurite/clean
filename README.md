@@ -5,8 +5,8 @@ Clean is a small command-line utility to tidy the user's home directory. It has 
 - The nim compiler
 
 ## Building
-    ```shell
-       git clone https://github.com/PurpleAzurite/clean.git && cd clean
-       make
-       sudo make install
-    ```
+```shell
+git clone https://github.com/PurpleAzurite/clean.git && cd clean
+make
+sudo make install
+```
